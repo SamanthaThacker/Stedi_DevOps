@@ -7,6 +7,14 @@
 			"problemMatcher": [],
 			"label": "npm: android",
 			"detail": "expo start --android"
+		},
+		{
+			"type": "npm",
+			"script": "test",
+			"group": "test",
+			"problemMatcher": [],
+			"label": "npm: test",
+			"detail": "jest"
 		}
 	]
 }
